@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there,
+
+My name is Carlos Ruiz, im a Programmer and aspiring Technical artist.
+
+I love videogames, graphical programming and any sort of puzzle challenge.
+
+Got a question? Feel free to reach me at my email or linkedin.
+
 
 <!--
 **craduzz/craduzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
