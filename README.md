@@ -1,6 +1,6 @@
 ### Hi there,
 
-My name is Carlos Ruiz, im a Programmer and aspiring Technical artist.
+My name is Carlos Ruiz, I'm a Programmer and aspiring Technical artist.
 
 I love videogames, graphical programming and any sort of puzzle challenge.
 
